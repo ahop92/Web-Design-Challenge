@@ -42,3 +42,13 @@
     float:left;
 }
 
+.thumbnail_margin{
+
+    margin:25px;
+}
+
+.h3_border{
+
+    border-bottom: 2px solid plum;
+
+}
