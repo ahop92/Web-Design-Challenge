@@ -11,19 +11,32 @@ visualizations created as part of the analysis, as well as explanations and
 brief descriptions of any identifiable trends or correlations. 
 
 -- Cloudiness Copy --
+The graphic above is a visual representation of the change in cloudiness as a percentage by latitude. This study defined 100% as the maximum possible percentage.
 
+Within this specfiic sample of cities across the globe, there was no obvious correlation between the cloudiness of a location and its associated humidity. 
+Although there is no clear connection, further study is recommended to confidently conclude that latitude bears no impact on cloudiness.
 
 
 -- Humidity Copy -- 
+The graphic above is a visual representation of the change in humidity as a percentage by latitude. This study defined 100% as the maximum possible percentage.
 
+Within this specfiic sample of cities across the globe, there was no obvious correlation between the latitude of a location and its associated humidity. 
+Although there is no clear connection, further study is recommended to confidently conclude that latitude bears no impact on humidity.
 
 
 -- Max Temperature Copy -- 
+The graphic above is a visual representation of the change in maximum temperature in degrees fareinheit by latitude.
 
+As epected, within this sample of cities around the globe, the maximum temperautre of the locaton in question increases as distance to the equator decreases. It should be stated, however, 
+that this analysis is only specific to the time of year at which it was completed.
 
 
 
 -- Windspeed Copy -- 
+The graphic above is a visual representation of the change in wind speed in miles per hour (mph) by latitude. Maximum wind speed calculated was around 36 mph.
 
+Within this specfiic sample of cities across the globe, there was no distinct correlation between the wind speed of a location at a given latitude. It's important to note,
+however, the vast majority of wind speeds tabulated fell within the range of 0 to 25 mph with some outliers in the upper 20s and mid 30s. There was a particularly heavy conentration of 
+speeds found between 0 and 10mph between -20 and 80 degress latitude. Further study is needed to derive a clear conclusion or correlation. 
 
 
