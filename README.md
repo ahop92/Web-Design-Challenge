@@ -1,4 +1,4 @@
-# Web-Design-Challenge
+# HTML Deployment of Global Weather Analysis
 
 ## Background
 
